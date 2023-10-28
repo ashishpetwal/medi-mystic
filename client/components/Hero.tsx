@@ -14,7 +14,7 @@ const Hero = () => {
             </h1>
             <p className="px-0 mb-8 text-lg text-gray-600 md:text-xl lg:px-24">
               Welcome to Medi Mystic, where your health is our topmost priority.
-              We're here to provide you with accurate and reliable health
+              We&apos;re here to provide you with accurate and reliable health
               predictions.
             </p>
             <div className="mb-4 space-x-0 md:space-x-2 md:mb-8">

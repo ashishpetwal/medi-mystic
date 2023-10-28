@@ -25,7 +25,7 @@ const Steps = () => {
             </span>
             <h4 className="font-bold">Input Your Symptoms</h4>
             <p>
-              Start by describing your symptoms in plain language. Whether it's
+              Start by describing your symptoms in plain language. Whether it&apos;s
               a persistent cough or a throbbing headache.
             </p>
           </div>
@@ -35,7 +35,7 @@ const Steps = () => {
             </span>
             <h4 className="font-bold">Let Our AI Analyze</h4>
             <p>
-              Once you've entered your symptoms, our advanced AI takes over. It
+              Once you&apos;ve entered your symptoms, our advanced AI takes over. It
               employs cutting-edge algorithms to analyze your information.
             </p>
           </div>
@@ -45,7 +45,7 @@ const Steps = () => {
             </span>
             <h4 className="font-bold">Receive Accurate Predictions</h4>
             <p>
-              Within moments, you'll receive a precise prediction about
+              Within moments, you&apos;ll receive a precise prediction about
               potential health conditions related to your symptoms.
             </p>
           </div>
