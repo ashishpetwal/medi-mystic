@@ -103,7 +103,7 @@ const Selector = (): JSX.Element => {
             value={input}
             onChange={(e) => handleInputChange(e, index)}
           />
-          {suggestions[index].length > 0 && (
+          {Array.isArray(suggestions[index]) && suggestions[index].length > 0 && (
             <ul className="absolute bg-white flex flex-col gap-4 pl-6 w-[75vw]">
               {suggestions[index].map((suggestion, suggestionIndex) => (
                 <li
